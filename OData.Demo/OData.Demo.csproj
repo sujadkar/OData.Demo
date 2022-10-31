@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <!--<PackageReference Include="Dapper.Builder.Core" Version="1.3.1" />-->
     <PackageReference Include="Microsoft.AspNetCore.OData" Version="8.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
@@ -14,4 +15,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\sujay\Downloads\Dapper.Builder-master\Dapper.Builder-master\src\Dapper.Builder.Core\Dapper.Builder.Core.csproj" />
+  </ItemGroup>
+
+  
 </Project>
