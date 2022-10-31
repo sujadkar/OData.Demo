@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="C:\Users\sujay\Downloads\Dapper.Builder-master\Dapper.Builder-master\src\Dapper.Builder.Core\Dapper.Builder.Core.csproj" />
+    <ProjectReference Include="..\Dapper.Builder.Core\Dapper.Builder.Core.csproj" />
   </ItemGroup>
 
   
